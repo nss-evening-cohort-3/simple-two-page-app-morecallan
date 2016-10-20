@@ -146,7 +146,7 @@ UpgradeLog*.htm
 *.txt~
 *.swp
 *.swo
- 
+
 # svn
 .svn
 
@@ -183,3 +183,6 @@ $RECYCLE.BIN/
 
 # Visual Studio 2014 CTP
 **/*.sln.ide
+
+# Additional Practice
+/practice
